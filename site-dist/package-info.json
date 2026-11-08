@@ -1,0 +1,35 @@
+{
+  "slug": "retrypilot",
+  "url": "https://www.m2toolkit.com/npm-packages/retrypilot",
+  "name": "retrypilot",
+  "title": "retrypilot",
+  "tagline": "Safe, predictable, observable retries: idempotency guards, deadlines, shared retry budgets and Retry-After support.",
+  "accent": "#a21caf",
+  "highlights": [
+    "You declare whether an operation is safe to repeat. There is no default",
+    "Attempt, deadline and shared-budget limits enforced together",
+    "Honours Retry-After, stops the moment you abort",
+    "Every decision is a structured event. Zero dependencies"
+  ],
+  "version": "0.1.0",
+  "description": "Safe, predictable, observable retry policies for async operations and fetch: idempotency guards, deadlines, retry budgets, Retry-After support.",
+  "keywords": [
+    "retry",
+    "backoff",
+    "jitter",
+    "fetch",
+    "idempotency",
+    "retry-budget",
+    "deadline",
+    "abortsignal",
+    "resilience"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Mohsinziadev/retrypilot",
+  "issues": "https://github.com/Mohsinziadev/retrypilot/issues",
+  "npm": "https://www.npmjs.com/package/retrypilot",
+  "install": "npm install retrypilot",
+  "pageTitle": "retrypilot: safe, predictable retries for async and fetch",
+  "pageDescription": "Retry async operations and fetch with a required idempotency declaration, deadlines, a shared retry budget and Retry-After support. Every decision is an event.",
+  "updated": "2026-11-08"
+}

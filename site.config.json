@@ -1,0 +1,21 @@
+{
+  "slug": "retrypilot",
+  "url": "https://www.m2toolkit.com/npm-packages/retrypilot",
+  "siteName": "M2Toolkit",
+  "ogImage": "https://www.m2toolkit.com/opengraph-image",
+  "accent": "#a21caf",
+  "title": "retrypilot",
+  "tagline": "Safe, predictable, observable retries: idempotency guards, deadlines, shared retry budgets and Retry-After support.",
+  "runtimePlatform": "Node.js",
+  "highlights": [
+    "You declare whether an operation is safe to repeat. There is no default",
+    "Attempt, deadline and shared-budget limits enforced together",
+    "Honours Retry-After, stops the moment you abort",
+    "Every decision is a structured event. Zero dependencies"
+  ],
+  "build": {
+    "root": "demo",
+    "viteConfig": "demo/vite.config.ts",
+    "serverEntry": "demo/entry-server.tsx"
+  }
+}
